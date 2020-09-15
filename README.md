@@ -1,2 +1,2 @@
-# testTelecom.github.io
-test
+npm install
+gulp
